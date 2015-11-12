@@ -1,3 +1,9 @@
+# GitHub pages branch folder
+.ghpages/
+
+# Node Modules
+node_modules/
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
